@@ -5,7 +5,7 @@
 <p>First of all you need Python 3.7 or above and PyPDF2 library.</p>
 <br></br>
 
-<h3>merge_pdf.py:</h3>
+<h3><a href="https://github.com/sandromjr/manipulate_pdf/blob/master/merge_files.py">merge_pdf.py:</a></h3>
 <p>Merge multiple files into unique file</p>
 <br></br>
 
