@@ -9,7 +9,7 @@
 <p>Merge multiple files into unique file</p>
 <br></br>
 
-<h3>order_pages.py:</h3>
+<h3><a href="https://github.com/sandromjr/manipulate_pdf/blob/master/order_pages.py"> order_pages.py:</a></h3>
   <p>Order pages using pdf pages indexes to generate a new file ordered</p>
   
   <h4>Enjoy it!</h4>
