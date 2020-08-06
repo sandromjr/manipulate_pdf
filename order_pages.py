@@ -16,6 +16,7 @@ def order_pages):
 
         with open(output_file, "wb") as writefile:
             output_pdf.write(writefile)
+    return ('The pages are ordered')
             
 #output file order
 order = [1, 2, 3, 4, 5]
